@@ -1,0 +1,12 @@
+
+    #target{
+       display: grid;
+       place-items: center;
+    }
+
+    #target.is-hovered{
+      border: 2px dotted black;
+    }
+    #box{
+      cursor:move;
+    }
